@@ -16,7 +16,7 @@ Run the app on an emulator or device
 ``` 
 flutter run
 ```
-1) Download the app from this this [link](https://drive.google.com/file/d/1ZacnnVEAYz_PgxroBwfKypR-Jc5Dq9wS/view?usp=sharing).
+1) Download the app from this this [link](https://drive.google.com/file/d/19hTBtfXWdnhmMPaVYDEaMJfde5tVDiIq/view?usp=sharing).
 2) Open the app on your android device.
 3) Start play by tap on screen.
 
